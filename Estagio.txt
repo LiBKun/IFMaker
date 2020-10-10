@@ -1,0 +1,35 @@
+Horários dos responsáveis --- Tabela de horários
+
+Chamado pedindo autorização para usar as ferramentas -- Formulário
+
+Deve haver priorização de projetos
+
+
+
+Formulários
+
+Administrador ----- Pessoa que cadastra os responsáveis
+
+Responsáveis ------- Pessoa que cuida
+
+Estagiário ------- VIP/Porém não pode supervisionar ninguém
+
+Usuario externo ------- Pessoa que quer usar (seu formulário deve ter o que vai usar e até quando)(O formulário de contato = formulário de solicitação de usar o projeto)
+
+
+
+Autorizar/negar/mudar data
+
+Login e histórico de entrada e saída pra saber quem tava aí em tal dia
+
+Formulário de empréstimos de materiais
+
+Registro de ocorrências (Registrar problemas)
+
+Inventário (registro de coisas que tem)
+
+
+
+Banco de dado
+Logo
+Imagens
